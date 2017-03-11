@@ -1,0 +1,13 @@
+.public-header {
+	height: 34px;
+	margin-top: 10px;
+}
+.public-header img {
+	width: 100%;
+}
+.container {
+	position: relative;
+	margin: 0 auto;
+	width: 560px;
+
+}
